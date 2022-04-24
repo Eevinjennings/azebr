@@ -11,8 +11,8 @@ assignees: Eevinjennings
 <describe purpose here>
 
 ### Overview
-- [] 
-- [] 
+- [ ] 
+- [ ] 
 
 ### Relevant Links
 [Link](https://pages.github.com/)
