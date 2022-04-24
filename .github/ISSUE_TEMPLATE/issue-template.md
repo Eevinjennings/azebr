@@ -14,6 +14,9 @@ assignees: Eevinjennings
 - [ ] 
 - [ ] 
 
+### Notes
+- 
+
 ### Relevant Links
-[Link](https://pages.github.com/)
-[Link](https://pages.github.com/)
+[AZ Exotic Bird Rescue](https://www.azexoticbirdrescue.org/)
+[Airtable project](https://airtable.com/appxTxQojArg9KkVu/tblUdktlEhkjAEHIc/viwtU0qrUzCF0XvoD?blocks=hide)
